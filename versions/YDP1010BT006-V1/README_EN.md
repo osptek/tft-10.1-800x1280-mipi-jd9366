@@ -32,7 +32,7 @@
 
 OSPTEK **10.1″ 800×1280 TFT** is a **MIPI DSI** color display module driven by **JD9366**, with a touch interface (samples use `esp_lcd_touch_jd9366`). It suits mid/large HMI, portrait info panels, and multimedia displays.
 
-Spec ID (repository name): `10.1-tft-800x1280-mipi-jd9366`
+Spec ID (repository name): `tft-10.1-800x1280-mipi-jd9366`
 
 Current module version: **YDP1010BT006-V1**. Electrical and mechanical details follow [`docs/YDP1010BT006-V1.pdf`](./docs/YDP1010BT006-V1.pdf).
 
@@ -72,7 +72,7 @@ Optional **3D-printed enclosure** for this 10.1″ module. Print files are publi
 ## Repository layout
 
 ```text
-10.1-tft-800x1280-mipi-jd9366/                                # repo root (nav: ../../README_EN.md)
+tft-10.1-800x1280-mipi-jd9366/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── YDP1010BT006-V1/                                # full materials for this part number
         ├── README.md

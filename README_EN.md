@@ -29,7 +29,7 @@ This repository holds materials for the **10.1″ 800×1280 TFT (MIPI · JD9366)
 
 The **root README is the navigation page**. Use the table below for a quick scan; open **Full docs** to enter that **part-number folder** under `versions/` (product page, datasheets, and examples live there).
 
-Repo id: `10.1-tft-800x1280-mipi-jd9366`
+Repo id: `tft-10.1-800x1280-mipi-jd9366`
 
 ---
 
