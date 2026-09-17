@@ -6,6 +6,7 @@ panel: tft
 resolution: 800x1280
 interface: [mipi]
 shape: rect
+corner: rounded
 
 versions:
   - id: YDP1010BT006-V1
