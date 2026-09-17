@@ -1,0 +1,14 @@
+id: tft-10.1-800x1280-mipi-jd9366
+category: displays
+
+size: "10.1"
+panel: tft
+resolution: 800x1280
+interface: [mipi]
+shape: rect
+
+versions:
+  - id: YDP1010BT006-V1
+    driver: JD9366
+    touch: JD9366
+    note: none
