@@ -58,6 +58,8 @@ OSPTEK **10.1 寸 800×1280 TFT** 是一款 **MIPI DSI** 接口彩色显示模�
 <p align="center"><img alt="10.1 寸配套外壳背面宣传图" src="./images/enclosure-back.png" width="640" /></p>
 
 - MakerWorld：<https://makerworld.com.cn/zh/@LinLuo>
+- 前壳 STEP：[`docs/enclosure-front.STEP`](./docs/enclosure-front.STEP)
+- 后壳 STEP：[`docs/enclosure-back.STEP`](./docs/enclosure-back.STEP)
 
 ## 示例工程
 
@@ -95,6 +97,8 @@ tft-10.1-800x1280-mipi-jd9366/                                # 仓库根（导�
 | 初始化序列（MIPI 2 lane） | [`docs/JD9366TC_CSOT10.1_MIPI2L_init.txt`](./docs/JD9366TC_CSOT10.1_MIPI2L_init.txt) |
 | 初始化序列（MIPI 4 lane） | [`docs/JD9366TC_CSOT10.1_MIPI4L_init_20250320.txt`](./docs/JD9366TC_CSOT10.1_MIPI4L_init_20250320.txt) |
 | 配套外壳（MakerWorld · LinLuo） | <https://makerworld.com.cn/zh/@LinLuo> |
+| 配套外壳前壳（STEP） | [`docs/enclosure-front.STEP`](./docs/enclosure-front.STEP) |
+| 配套外壳后壳（STEP） | [`docs/enclosure-back.STEP`](./docs/enclosure-back.STEP) |
 
 ### 示例工程
 

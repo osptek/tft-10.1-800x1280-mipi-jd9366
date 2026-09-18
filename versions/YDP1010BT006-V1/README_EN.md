@@ -58,6 +58,8 @@ Optional **3D-printed enclosure** for this 10.1″ module. Print files are publi
 <p align="center"><img alt="10.1″ enclosure back promo" src="./images/enclosure-back.png" width="640" /></p>
 
 - MakerWorld author: <https://makerworld.com.cn/zh/@LinLuo>
+- Front shell STEP: [`docs/enclosure-front.STEP`](./docs/enclosure-front.STEP)
+- Back shell STEP: [`docs/enclosure-back.STEP`](./docs/enclosure-back.STEP)
 
 ## Sample projects
 
@@ -95,6 +97,8 @@ tft-10.1-800x1280-mipi-jd9366/                                # repo root (nav: 
 | Init sequence (MIPI 2-lane) | [`docs/JD9366TC_CSOT10.1_MIPI2L_init.txt`](./docs/JD9366TC_CSOT10.1_MIPI2L_init.txt) |
 | Init sequence (MIPI 4-lane) | [`docs/JD9366TC_CSOT10.1_MIPI4L_init_20250320.txt`](./docs/JD9366TC_CSOT10.1_MIPI4L_init_20250320.txt) |
 | Enclosure (MakerWorld · LinLuo) | <https://makerworld.com.cn/zh/@LinLuo> |
+| Enclosure front (STEP) | [`docs/enclosure-front.STEP`](./docs/enclosure-front.STEP) |
+| Enclosure back (STEP) | [`docs/enclosure-back.STEP`](./docs/enclosure-back.STEP) |
 
 ### Samples
 
