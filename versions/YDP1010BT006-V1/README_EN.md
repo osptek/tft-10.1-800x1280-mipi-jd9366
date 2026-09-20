@@ -67,6 +67,8 @@ Optional **3D-printed enclosure** for this 10.1″ module. Print files are publi
 | ---- | ---- |
 | ESP32-P4 · JD9366 MIPI + esp-lvgl-port / LVGL9 | [`examples/esp32p4-idf5_jd9366-mipi_esp-lvgl-port_lvgl9/`](./examples/esp32p4-idf5_jd9366-mipi_esp-lvgl-port_lvgl9/) |
 | ESP32-P4 · JD9366 MIPI + PPA landscape / LVGL9 | [`examples/esp32p4-idf5_jd9366-mipi_esp-lvgl-port_lvgl9_ppa/`](./examples/esp32p4-idf5_jd9366-mipi_esp-lvgl-port_lvgl9_ppa/) |
+| ESP32-P4 v3.2 · ESP-IDF 6.1 · JD9366 MIPI + LVGL 9 | [`examples/esp32p4-idf6_jd9366-mipi_esp-lvgl-port_lvgl9/`](./examples/esp32p4-idf6_jd9366-mipi_esp-lvgl-port_lvgl9/) |
+| ESP32-P4 v3.2 · ESP-IDF 6.1 · JD9366 MIPI + PPA landscape / LVGL 9 | [`examples/esp32p4-idf6_jd9366-mipi_esp-lvgl-port_lvgl9_ppa/`](./examples/esp32p4-idf6_jd9366-mipi_esp-lvgl-port_lvgl9_ppa/) |
 | Raspberry Pi 5 · JD9366 800×1280 panel / DT overlay (display only) | [`examples/rpi5-panel-jd9366-800x1280/`](./examples/rpi5-panel-jd9366-800x1280/) |
 | Raspberry Pi 5 · JD9366 display + touch / DT overlay | [`examples/rpi5-panel-jd9366-touch-800x1280/`](./examples/rpi5-panel-jd9366-touch-800x1280/) |
 | Raspberry Pi 5 · JD9366 display + touch · LVGL (DRM + EVDEV) | [`examples/rpi5-lvgl-jd9366-touch-800x1280/`](./examples/rpi5-lvgl-jd9366-touch-800x1280/) |
@@ -104,6 +106,8 @@ tft-10.1-800x1280-mipi-jd9366/                                # repo root (nav: 
 
 - [ESP32-P4 JD9366 MIPI + LVGL9](./examples/esp32p4-idf5_jd9366-mipi_esp-lvgl-port_lvgl9/)
 - [ESP32-P4 JD9366 MIPI + PPA landscape / LVGL9](./examples/esp32p4-idf5_jd9366-mipi_esp-lvgl-port_lvgl9_ppa/)
+- [ESP32-P4 v3.2 · ESP-IDF 6.1 · JD9366 MIPI + LVGL 9](./examples/esp32p4-idf6_jd9366-mipi_esp-lvgl-port_lvgl9/)
+- [ESP32-P4 v3.2 · ESP-IDF 6.1 · JD9366 MIPI + PPA landscape / LVGL 9](./examples/esp32p4-idf6_jd9366-mipi_esp-lvgl-port_lvgl9_ppa/)
 - [Raspberry Pi 5 JD9366 panel (display only)](./examples/rpi5-panel-jd9366-800x1280/)
 - [Raspberry Pi 5 JD9366 display + touch](./examples/rpi5-panel-jd9366-touch-800x1280/)
 - [Raspberry Pi 5 JD9366 display + touch · LVGL](./examples/rpi5-lvgl-jd9366-touch-800x1280/)
