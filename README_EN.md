@@ -18,6 +18,7 @@
 - [About](#about)
 - [Versions](#versions)
 - [YDP1010BT006-V1](#ydp1010bt006-v1)
+- [YDP1010BT003-V1](#ydp1010bt003-v1)
 - [Where to Buy](#where-to-buy)
 - [Support](#support)
 
@@ -38,6 +39,7 @@ Repo id: `tft-10.1-800x1280-mipi-jd9366`
 | Version | Image | Summary | Full docs |
 | ------- | ----- | ------- | --------- |
 | YDP1010BT006-V1 | <img alt="YDP1010BT006-V1" src="./versions/YDP1010BT006-V1/images/product.png" width="120" /> | [Summary](#ydp1010bt006-v1) | [Full docs](./versions/YDP1010BT006-V1/) |
+| YDP1010BT003-V1 |  | [Summary](#ydp1010bt003-v1) | [Full docs](./versions/YDP1010BT003-V1/) |
 
 ---
 
@@ -48,6 +50,14 @@ Repo id: `tft-10.1-800x1280-mipi-jd9366`
 **Notes:** With touch (JD9366).
 
 Full product page, datasheets, and examples: [versions/YDP1010BT006-V1/](./versions/YDP1010BT006-V1/)
+
+---
+
+## YDP1010BT003-V1
+
+**Notes:** 45-pin FPC, wide-bezel assembly, capacitive touch (TP I2C). Driver is JD9366. Module outline 160.00×250.00×3.64 mm.
+
+Full product page, datasheets, and examples: [versions/YDP1010BT003-V1/](./versions/YDP1010BT003-V1/)
 
 ---
 

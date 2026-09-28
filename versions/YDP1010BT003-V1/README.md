@@ -2,9 +2,9 @@
 
 <h1 align="center">OSPTEK 10.1″ TFT 800×1280（JD9366 · MIPI）</h1>
 
-<p align="center"><b>TFT 模组 · MIPI · JD9366 · 多版本索引</b></p>
+<p align="center"><b>触摸 TFT 模组 · MIPI DSI · JD9366</b></p>
 
-<p align="center"><a href="./README_EN.md">English</a> | 简体中文</p>
+<p align="center"><a href="./README_EN.md">English</a> | 简体中文 · <a href="../../README.md">规格族索引</a></p>
 
 <p align="center">
   <img alt="Size: 10.1 inch" src="https://img.shields.io/badge/Size-10.1%22-3498DB?style=flat-square" />
@@ -15,51 +15,57 @@
 
 ## 目录
 
-- [说明](#说明)
-- [版本一览](#版本一览)
-- [YDP1010BT006-V1](#ydp1010bt006-v1)
-- [YDP1010BT003-V1](#ydp1010bt003-v1)
+- [产品简介](#产品简介)
+- [规格参数](#规格参数)
+- [仓库结构](#仓库结构)
+- [相关资料](#相关资料)
 - [购买链接](#购买链接)
 - [技术支持](#技术支持)
 
 ---
 
-## 说明
+## 产品简介
 
-本仓库收录 **10.1 寸 800×1280 TFT（MIPI · JD9366）** 显示模组资料。
-
-**根目录 README 为导航页**。下表可快速浏览各版本；点击「完整资料」进入 `versions/` 下对应**料号文件夹**（产品页、规格书、示例均在该目录内）。
+OSPTEK **10.1 寸 800×1280 TFT** 是一款 **MIPI DSI** 接口彩色显示模组，驱动为 **JD9366**，FPC 带电容触摸（TP I2C）。本料号为宽边框屏幕总成。适合中大尺寸 HMI、竖屏信息面板与多媒体显示等场景。
 
 规格标识（仓库名）：`tft-10.1-800x1280-mipi-jd9366`
 
----
+当前模组版本：**YDP1010BT003-V1**。电气与外形细节以 [`docs/YDP1010BT003-V1.pdf`](./docs/YDP1010BT003-V1.pdf) 为准。
 
-## 版本一览
+## 规格参数
 
-| 版本 | 宣传图 | 简介 | 完整资料 |
-| ---- | ------ | ---- | -------- |
-| YDP1010BT006-V1 | <img alt="YDP1010BT006-V1" src="./versions/YDP1010BT006-V1/images/product.png" width="120" /> | [简介](#ydp1010bt006-v1) | [完整资料](./versions/YDP1010BT006-V1/) |
-| YDP1010BT003-V1 |  | [简介](#ydp1010bt003-v1) | [完整资料](./versions/YDP1010BT003-V1/) |
+| 项目 | 规格 |
+| ---- | ---- |
+| 尺寸 | 10.1 英寸 |
+| 类型 | TFT / IPS（彩色，常黑） |
+| 分辨率 | 800×1280 |
+| 接口 | MIPI DSI |
+| 驱动 IC | JD9366 |
+| 触摸驱动 | JD9366 |
 
----
+> 完整外形尺寸、FPC 定义、供电与时序以产品规格书 / 驱动手册为准。
 
-## YDP1010BT006-V1
+## 仓库结构
 
-<p align="center"><img alt="YDP1010BT006-V1" src="./versions/YDP1010BT006-V1/images/product.png" width="320" /></p>
+```text
+tft-10.1-800x1280-mipi-jd9366/           # 仓库根（导航见 ../../README.md）
+└── versions/
+    └── YDP1010BT003-V1/                 # 本料号完整资料
+        ├── README.md
+        ├── README_EN.md
+        ├── images/
+        ├── docs/
+        └── examples/
+```
 
-**说明：** 带触摸（JD9366）。
+## 相关资料
 
-完整产品页、规格书与示例：[versions/YDP1010BT006-V1/](./versions/YDP1010BT006-V1/)
+### 本产品资料
 
----
-
-## YDP1010BT003-V1
-
-**说明：** FPC 为 45 Pin，宽边框总成，电容触摸（TP I2C）。驱动为 JD9366。模组外形 160.00×250.00×3.64 mm。
-
-完整产品页、规格书与示例：[versions/YDP1010BT003-V1/](./versions/YDP1010BT003-V1/)
-
----
+| 资料 | 链接 |
+| ---- | ---- |
+| 产品规格书（YDP1010BT003-V1） | [`docs/YDP1010BT003-V1.pdf`](./docs/YDP1010BT003-V1.pdf) |
+| 驱动 IC 数据手册（JD9366TC） | [`docs/JD9366TC_DS_V0.01_20220426.pdf`](./docs/JD9366TC_DS_V0.01_20220426.pdf) |
 
 ## 购买链接
 
@@ -76,8 +82,6 @@
 **海外（AliExpress）**
 
 - 店铺：[OSPTEK Official Store](https://www.aliexpress.com/store/1105701619)
-
----
 
 ## 技术支持
 

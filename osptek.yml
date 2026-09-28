@@ -13,3 +13,7 @@ versions:
     driver: JD9366
     touch: JD9366
     note: none
+  - id: YDP1010BT003-V1
+    driver: JD9366
+    touch: JD9366
+    note: 45-pin FPC; wide-bezel assembly; capacitive touch TP I2C; module outline 160.00x250.00x3.64 mm
