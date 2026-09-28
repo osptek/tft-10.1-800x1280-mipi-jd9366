@@ -9,10 +9,6 @@ shape: rect
 corner: rounded
 
 versions:
-  - id: YDP1010BT003-V1
-    driver: JD9366
-    touch: TBD
-    note: 45-pin FPC, capacitive touch (IC not named in datasheet)
   - id: YDP1010BT006-V1
     driver: JD9366
     touch: JD9366

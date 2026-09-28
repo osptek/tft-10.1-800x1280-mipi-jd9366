@@ -17,7 +17,6 @@
 
 - [About](#about)
 - [Versions](#versions)
-- [YDP1010BT003-V1](#ydp1010bt003-v1)
 - [YDP1010BT006-V1](#ydp1010bt006-v1)
 - [Where to Buy](#where-to-buy)
 - [Support](#support)
@@ -38,16 +37,7 @@ Repo id: `tft-10.1-800x1280-mipi-jd9366`
 
 | Version | Image | Summary | Full docs |
 | ------- | ----- | ------- | --------- |
-| YDP1010BT003-V1 |  | [Summary](#ydp1010bt003-v1) | [Full docs](./versions/YDP1010BT003-V1/) |
 | YDP1010BT006-V1 | <img alt="YDP1010BT006-V1" src="./versions/YDP1010BT006-V1/images/product.png" width="120" /> | [Summary](#ydp1010bt006-v1) | [Full docs](./versions/YDP1010BT006-V1/) |
-
----
-
-## YDP1010BT003-V1
-
-**Notes:** 45-pin FPC, capacitive touch (touch IC not named in the datasheet).
-
-Full product page, datasheets, and examples: [versions/YDP1010BT003-V1/](./versions/YDP1010BT003-V1/)
 
 ---
 
