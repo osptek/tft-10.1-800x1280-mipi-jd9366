@@ -93,6 +93,7 @@ tft-10.1-800x1280-mipi-jd9366/                                # 仓库根（导�
 | 资料 | 链接 |
 | ---- | ---- |
 | 产品规格书（YDP1010BT006-V1） | [`docs/YDP1010BT006-V1.pdf`](./docs/YDP1010BT006-V1.pdf) |
+| 3D 模型（STEP，YDP101BT006-V1） | [`docs/YDP101BT006-V1.step`](./docs/YDP101BT006-V1.step) |
 | 驱动 IC 数据手册（JD9366） | [`docs/JD9366TC_DS_V0.01_20220426.pdf`](./docs/JD9366TC_DS_V0.01_20220426.pdf) |
 | 10.1 寸屏幕 P4 转接板 V1.1 | [`docs/PCB-10.1-P4-adapter-V1.1.pdf`](./docs/PCB-10.1-P4-adapter-V1.1.pdf) |
 | 转接板原理图截图 | [`docs/adapter-board-schematic.jpg`](./docs/adapter-board-schematic.jpg) |
