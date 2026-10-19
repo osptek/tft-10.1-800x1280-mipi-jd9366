@@ -98,6 +98,7 @@ tft-10.1-800x1280-mipi-jd9366/                                # 仓库根（导�
 | 驱动 IC 数据手册（JD9366） | [`docs/JD9366TC_DS_V0.01_20220426.pdf`](./docs/JD9366TC_DS_V0.01_20220426.pdf) |
 | 10.1 寸屏幕 P4 转接板 V1.1 | [`docs/PCB-10.1-P4-adapter-V1.1.pdf`](./docs/PCB-10.1-P4-adapter-V1.1.pdf) |
 | 转接板原理图截图 | [`docs/adapter-board-schematic.jpg`](./docs/adapter-board-schematic.jpg) |
+| 10.1 寸屏幕 P4 转接板 3D 模型（STEP） | [`docs/10.1寸屏幕P4转接板.step`](./docs/10.1%E5%AF%B8%E5%B1%8F%E5%B9%95P4%E8%BD%AC%E6%8E%A5%E6%9D%BF.step) |
 | 初始化序列（MIPI 2 lane） | [`docs/JD9366TC_CSOT10.1_MIPI2L_init.txt`](./docs/JD9366TC_CSOT10.1_MIPI2L_init.txt) |
 | 初始化序列（MIPI 4 lane） | [`docs/JD9366TC_CSOT10.1_MIPI4L_init_20250320.txt`](./docs/JD9366TC_CSOT10.1_MIPI4L_init_20250320.txt) |
 | 配套外壳（MakerWorld · LinLuo） | <https://makerworld.com.cn/zh/@LinLuo> |
