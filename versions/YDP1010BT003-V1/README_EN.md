@@ -17,6 +17,7 @@
 
 - [Overview](#overview)
 - [Specifications](#specifications)
+- [Samples](#samples)
 - [Repository layout](#repository-layout)
 - [Resources](#resources)
 - [Buy](#buy)
@@ -45,6 +46,12 @@ Current module version: **YDP1010BT003-V1**. Electrical and mechanical details f
 
 > Full outline, FPC definition, power, and timing follow the product datasheet / driver IC datasheet.
 
+## Samples
+
+| Description | Path |
+| ----------- | ---- |
+| Luckfox Lyra Ultra (RK3506) · JD9366 MIPI + I2C touch | [`examples/rk3506-luckfox-lyra-ultra-jd9366-800x1280/`](./examples/rk3506-luckfox-lyra-ultra-jd9366-800x1280/) |
+
 ## Repository layout
 
 ```text
@@ -66,6 +73,10 @@ tft-10.1-800x1280-mipi-jd9366/           # repo root (nav: ../../README_EN.md)
 | ---- | ---- |
 | Product datasheet (YDP1010BT003-V1) | [`docs/YDP1010BT003-V1.pdf`](./docs/YDP1010BT003-V1.pdf) |
 | Driver IC datasheet (JD9366TC) | [`docs/JD9366TC_DS_V0.01_20220426.pdf`](./docs/JD9366TC_DS_V0.01_20220426.pdf) |
+
+### Samples
+
+- [Luckfox Lyra Ultra (RK3506) · JD9366 MIPI + I2C touch](./examples/rk3506-luckfox-lyra-ultra-jd9366-800x1280/)
 
 ## Buy
 
