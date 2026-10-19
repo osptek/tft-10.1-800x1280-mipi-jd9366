@@ -72,7 +72,6 @@ OSPTEK **10.1 寸 800×1280 TFT** 是一款 **MIPI DSI** 接口彩色显示模�
 | Raspberry Pi 5 · JD9366 800×1280 面板驱动 / DT overlay（仅显示） | [`examples/rpi5-panel-jd9366-800x1280/`](./examples/rpi5-panel-jd9366-800x1280/) |
 | Raspberry Pi 5 · JD9366 显示 + 触摸驱动 / DT overlay | [`examples/rpi5-panel-jd9366-touch-800x1280/`](./examples/rpi5-panel-jd9366-touch-800x1280/) |
 | Raspberry Pi 5 · JD9366 显示 + 触摸 · LVGL（DRM + EVDEV） | [`examples/rpi5-lvgl-jd9366-touch-800x1280/`](./examples/rpi5-lvgl-jd9366-touch-800x1280/) |
-| Luckfox Lyra Ultra（RK3506）· JD9366 MIPI + I2C 触摸 | [`examples/rk3506-luckfox-lyra-ultra-jd9366-800x1280/`](./examples/rk3506-luckfox-lyra-ultra-jd9366-800x1280/) |
 
 ## 仓库结构
 
@@ -114,7 +113,6 @@ tft-10.1-800x1280-mipi-jd9366/                                # 仓库根（导�
 - [Raspberry Pi 5 JD9366 面板（仅显示）](./examples/rpi5-panel-jd9366-800x1280/)
 - [Raspberry Pi 5 JD9366 显示 + 触摸](./examples/rpi5-panel-jd9366-touch-800x1280/)
 - [Raspberry Pi 5 JD9366 显示 + 触摸 · LVGL](./examples/rpi5-lvgl-jd9366-touch-800x1280/)
-- [Luckfox Lyra Ultra（RK3506）· JD9366 MIPI + I2C 触摸](./examples/rk3506-luckfox-lyra-ultra-jd9366-800x1280/)
 
 ## 购买链接
 

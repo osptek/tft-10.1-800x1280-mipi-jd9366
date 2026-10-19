@@ -17,7 +17,6 @@
 
 - [产品简介](#产品简介)
 - [规格参数](#规格参数)
-- [示例工程](#示例工程)
 - [仓库结构](#仓库结构)
 - [相关资料](#相关资料)
 - [购买链接](#购买链接)
@@ -46,12 +45,6 @@ OSPTEK **10.1 寸 800×1280 TFT** 是一款 **MIPI DSI** 接口彩色显示模�
 
 > 完整外形尺寸、FPC 定义、供电与时序以产品规格书 / 驱动手册为准。
 
-## 示例工程
-
-| 说明 | 路径 |
-| ---- | ---- |
-| Luckfox Lyra Ultra（RK3506）· JD9366 MIPI + I2C 触摸 | [`examples/rk3506-luckfox-lyra-ultra-jd9366-800x1280/`](./examples/rk3506-luckfox-lyra-ultra-jd9366-800x1280/) |
-
 ## 仓库结构
 
 ```text
@@ -73,10 +66,6 @@ tft-10.1-800x1280-mipi-jd9366/           # 仓库根（导航见 ../../README.md
 | ---- | ---- |
 | 产品规格书（YDP1010BT003-V1） | [`docs/YDP1010BT003-V1.pdf`](./docs/YDP1010BT003-V1.pdf) |
 | 驱动 IC 数据手册（JD9366TC） | [`docs/JD9366TC_DS_V0.01_20220426.pdf`](./docs/JD9366TC_DS_V0.01_20220426.pdf) |
-
-### 示例工程
-
-- [Luckfox Lyra Ultra（RK3506）· JD9366 MIPI + I2C 触摸](./examples/rk3506-luckfox-lyra-ultra-jd9366-800x1280/)
 
 ## 购买链接
 
